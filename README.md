@@ -2,7 +2,7 @@
 **`Desenvolvedor fullstack`**
 
 
-- 🎓 Sou estudante de Ciência da computação.
+- 🎓 Sou estudante de Ciências da computação.
 - 🛠️ No momento, estou praticando programação com projetos pessoais e escolares.
 - 🌱 Gosto de aprender coisas novas e experimentar diferentes linguagens e ferramentas.
 - 📬 Pode falar comigo pelo meu e-mail: rafaellima120407@gmail.com

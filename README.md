@@ -106,9 +106,6 @@
 />
 
 
-![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=RafaelLima12&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=RafaelLima12&layout=compact&theme=radical)
-
 
 
 <br/>

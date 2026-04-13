@@ -9,14 +9,14 @@
 
 <br/>
 <p align="left">
-<a href="https://github.com/Rafael-Lima1?tab=repositories&sort=stargazers">
+<a href="https://github.com/RafaelLima12?tab=repositories&sort=stargazers">
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas GitHub" 
         src="https://custom-icon-badges.demolab.com/github/stars/rafael1204?color=c7a009&style=for-the-badge&labelColor=9e7c0c&logo=star&label=estrelas"
     />
 </a>
-    <a href="https://github.com/Rafael-Lima1?tab=followers">
+    <a href="https://github.com/RafaelLima12?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 

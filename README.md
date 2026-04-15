@@ -13,7 +13,7 @@
     <img 
         alt="Total de estrelas" 
         title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/rafael1204?color=c7a009&style=for-the-badge&labelColor=9e7c0c&logo=star&label=estrelas"
+        src="https://custom-icon-badges.demolab.com/github/stars/RafaelLima12?color=c7a009&style=for-the-badge&labelColor=9e7c0c&logo=star&label=estrelas"
     />
 </a>
     <a href="https://github.com/RafaelLima12?tab=followers">

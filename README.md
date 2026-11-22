@@ -1,116 +1,75 @@
-# 🧑‍💻 Rafael Lima
-**`Desenvolvedor fullstack`**
+ <!-- README.md -->
 
+<div align="center">
 
-- 🎓 Sou estudante de Ciências da computação.
-- 🛠️ No momento, estou praticando programação com projetos pessoais e escolares.
-- 🌱 Gosto de aprender coisas novas e experimentar diferentes linguagens e ferramentas.
-- 📬 Pode falar comigo pelo meu e-mail: rafaellima120407@gmail.com
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:312E81,100:2563EB&height=220&section=header&text=Rafael%20Lima&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20formação&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
 <br/>
-<p align="left">
-<a href="https://github.com/RafaelLima12?tab=repositories&sort=stargazers">
-    <img 
-        alt="Total de estrelas" 
-        title="Total de estrelas GitHub" 
-        src="https://custom-icon-badges.demolab.com/github/stars/RafaelLima12?color=c7a009&style=for-the-badge&labelColor=9e7c0c&logo=star&label=estrelas"
-    />
+
+<a href="https://github.com/RafaelLima12">
+  <img src="https://img.shields.io/badge/GitHub-RafaelLima12-181717?style=for-the-badge&logo=github" />
 </a>
-    <a href="https://github.com/RafaelLima12?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/RafaelLima12?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
+<a href="mailto:rafaellima120407@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 👨‍💻 Sobre mim
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+Olá! Sou **Rafael Lima**, estudante de **Ciência da Computação** e desenvolvedor Full Stack em formação.
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
+Tenho interesse em desenvolvimento de software, tecnologia e resolução de problemas por meio da programação.
 
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
+Atualmente, venho expandindo meus conhecimentos através de projetos acadêmicos e pessoais, explorando diferentes tecnologias e colocando em prática conceitos de desenvolvimento Front-end, Back-end, banco de dados e infraestrutura.
 
-<img 
-    align="left" 
-    alt="MySQL" 
-    title="MySQL"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"  
-/>
+- 🎓 Graduando em Ciência da Computação.
+- 💻 Desenvolvendo projetos pessoais e acadêmicos.
+- 🚀 Sempre buscando aprender novas tecnologias e aprimorar minhas habilidades.
+- 🔍 Interessado em desenvolvimento Full Stack, dados e soluções tecnológicas.
 
+---
 
+## 🛠️ Tecnologias e ferramentas
 
+<div align="center">
+
+### Linguagens de programação
+
+<img src="https://skillicons.dev/icons?i=java,python,js,php" />
+
+### Front-end
+
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
+
+### Back-end e banco de dados
+
+<img src="https://skillicons.dev/icons?i=nodejs,laravel,mysql" />
+
+### Ferramentas e infraestrutura
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,linux" />
+
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelLima12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLima12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 <br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=RafaelLima12&theme=tokyonight&hide_border=true&locale=pt_BR" />
+
 <br/>
 
+<img src="https://github-profile-trophy.vercel.app/?username=RafaelLima12&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" width="100%" />
 
-</p>
-
+</div>

@@ -2,10 +2,10 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD43B,50:FF8C00,100:FF3D00&height=260&section=header&text=Rafael%20Lima&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Rafael Lima - Desenvolvedor Full Stack em formação" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:240B12,50:7F1D1D,100:C2410C&height=260&section=header&text=Rafael%20Lima&fontSize=70&fontColor=FFFFFF&fontAlignY=40&desc=Desenvolvedor%20Full%20Stack%20em%20forma%C3%A7%C3%A3o&descSize=20&descAlignY=62&animation=fadeIn" width="100%" alt="Rafael Lima - Desenvolvedor Full Stack em formação" />
 
 <a href="https://github.com/RafaelLima12">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF8C00&center=true&vCenter=true&width=640&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Transformando+problemas+em+c%C3%B3digo;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FB923C&center=true&vCenter=true&width=640&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Desenvolvedor+Full+Stack+em+forma%C3%A7%C3%A3o;Transformando+problemas+em+c%C3%B3digo;Sempre+aprendendo+algo+novo+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/GitHub-RafaelLima12-181717?style=for-the-badge&logo=github" />
 </a>
 <a href="mailto:rafaellima120407@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-Contato-C2410C?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
@@ -74,6 +74,6 @@ Atualmente, venho expandindo meus conhecimentos através de projetos acadêmicos
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3D00,50:FF8C00,100:FFD43B&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C2410C,50:7F1D1D,100:240B12&height=120&section=footer" width="100%" alt="" />
 
 </div>

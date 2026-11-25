@@ -64,7 +64,7 @@ Atualmente, venho expandindo meus conhecimentos através de projetos acadêmicos
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelLima12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaelLima12&show_icons=true&theme=tokyonight&hide_border=true" />
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelLima12&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
